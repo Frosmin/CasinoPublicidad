@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Escucha
+comment1.params=
+comment1.target=Escucha()
+comment2.params=e
+comment2.target=void\ itemStateChanged(java.awt.event.ItemEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=nombreArchivo
+comment5.target=void\ guardarProyecto(java.lang.String)
+comment6.params=nombreArchivo
+comment6.target=void\ cargarProyecto(java.lang.String)
+comment7.params=re
+comment7.target=void\ resultAccepted(javax.speech.recognition.ResultEvent)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Cuadrado
+comment1.params=x\ y\ tam
+comment1.target=Cuadrado(int,\ int,\ int)
+comment10.params=x\ y
+comment10.target=boolean\ contiene(int,\ int)
+comment11.params=
+comment11.target=java.lang.String\ getTipo()
+comment12.params=
+comment12.target=Cuadrado\ clone()
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=x
+comment3.target=void\ setX(int)
+comment4.params=
+comment4.target=int\ getY()
+comment5.params=y
+comment5.target=void\ setY(int)
+comment6.params=
+comment6.target=int\ getAncho()
+comment7.params=lado
+comment7.target=void\ setAncho(int)
+comment8.params=c
+comment8.target=void\ setColor(java.awt.Color)
+comment9.params=g
+comment9.target=void\ dibujar(java.awt.Graphics)
+numComments=13

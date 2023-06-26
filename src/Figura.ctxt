@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Figura
+comment1.params=g
+comment1.target=void\ dibujar(java.awt.Graphics)
+comment10.params=color
+comment10.target=void\ setColor(java.awt.Color)
+comment11.params=
+comment11.target=Figura\ clone()
+comment2.params=x\ y
+comment2.target=boolean\ contiene(int,\ int)
+comment3.params=
+comment3.target=int\ getX()
+comment4.params=x
+comment4.target=void\ setX(int)
+comment5.params=
+comment5.target=int\ getY()
+comment6.params=y
+comment6.target=void\ setY(int)
+comment7.params=
+comment7.target=java.lang.String\ getTipo()
+comment8.params=tipo
+comment8.target=void\ setTipo(java.lang.String)
+comment9.params=
+comment9.target=java.awt.Color\ getColor()
+numComments=12

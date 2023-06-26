@@ -1,0 +1,37 @@
+#JSGF V1.0;
+grammar sentence;
+ 
+public <sentence> =
+[<dato0>]
+[<dato1>]
+[<dato2>]
+[<dato3>]
+[<dato4>]
+[<dato5>]
+[<dato6>]
+[<dato7>]
+[<dato8>]
+[<dato9>]
+[<dato10>]
+[<dato11>]
+[<dato12>]
+[<dato13>]
+[<dato1><dato2><dato3><dato4><dato5><dato6><dato7><dato8><dato9><dato10><dato11><dato12><dato13>];
+ 
+<dato0>=Caer;
+<dato1>=Cuadrado;
+<dato2>=Triangulo;
+<dato3>=Circulo;
+<dato4>=Rectangulo;
+<dato5>=Negra;
+<dato6>=Carta;
+<dato7>=Eliminar;
+<dato8>=1;
+<dato9>=40;
+<dato10>=Mover;
+<dato11>=Color;
+<dato12>=Blanca;
+<dato13>=Moneda;
+
+
+

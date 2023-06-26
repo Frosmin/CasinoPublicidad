@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "sphinx4-core-5prealpha-20160628.232526-10.jar",
+            "sphinx4-data-5prealpha-20160628.232535-10.jar"
+        ],
+        "exclude": [
+            "lib/org.jvoicexml.jsapi2.sphinx4.jar"
+        ]
+    }
+}

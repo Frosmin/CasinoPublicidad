@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Circulo
+comment1.params=x\ y\ c
+comment1.target=Circulo(int,\ int,\ java.awt.Color)
+comment10.params=g
+comment10.target=void\ dibujar(java.awt.Graphics)
+comment11.params=
+comment11.target=java.lang.String\ getTipo()
+comment12.params=
+comment12.target=Circulo\ clone()
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=x
+comment3.target=void\ setX(int)
+comment4.params=
+comment4.target=int\ getY()
+comment5.params=y
+comment5.target=void\ setY(int)
+comment6.params=
+comment6.target=int\ getRadio()
+comment7.params=radio
+comment7.target=void\ setRadio(int)
+comment8.params=c
+comment8.target=void\ setColor(java.awt.Color)
+comment9.params=x\ y
+comment9.target=boolean\ contiene(int,\ int)
+numComments=13
